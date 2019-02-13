@@ -6,4 +6,4 @@ Large, uncompressed binary files (pictures, video) used in compressed form for t
 
 ## List of Releases
 
-* [2017 Release](https://github.com/pgstuco/pgstuco.github.io-assets)
+* [2017 Release](https://github.com/pgstuco/pgstuco.github.io-assets/releases/tag/v1.0)
